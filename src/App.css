@@ -31,3 +31,12 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  color: white;
+}
+
+#instructions {
+  margin-left: auto;
+  margin-right: auto;
+}
